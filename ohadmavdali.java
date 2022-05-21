@@ -2,7 +2,7 @@
 public class ohadmavdali {
     public static void main(String[] args) {
         for (int i=1;i<=10; i++) {
-            System.out.println("Ohad Mavdali ..."+i);
+            System.out.println("Ohad Mavdali ... Edited"+i);
             }
         }
     }
